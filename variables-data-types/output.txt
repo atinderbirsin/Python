@@ -1,0 +1,9 @@
+483789239
+Atinder
+<class 'int'> <class 'str'> <class 'bool'> <class 'NoneType'>
+[1, 2, 'Atinder', True, 5]
+<class 'list'>
+(1, 2, 'Atinder', True, 5)
+<class 'tuple'>
+{'name': 'Atinder', 'age': 25, 'city': 'Jalandhar'}
+<class 'dict'>
