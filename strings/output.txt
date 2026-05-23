@@ -1,0 +1,12 @@
+Hello, Atinder
+This is a multiple line string. 
+It can span across multiple lines.
+A
+T
+A
+t
+i
+n
+d
+e
+r
