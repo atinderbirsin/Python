@@ -1,0 +1,23 @@
+34
+! ATINDER !!!!!!!! ATINDER !!!!!!!
+! atinder !!!!!!!! atinder !!!!!!!
+! atinder !!!!!!!! atinder 
+! john !!!!!!!! john !!!!!!!
+['!', 'atinder', '!!!!!!!!', 'atinder', '!!!!!!!']
+Atinder
+2
+True
+True
+alnum False
+isalpha True
+isPrintable True
+isPrintable False
+isSpace False
+isSpace True
+isTitle True
+startsWith True
+swapCase pYTHON IS A PROGRAMMING LANGUAGE
+titleCase    Hello, World!   32789832
+10
+-1
+10
