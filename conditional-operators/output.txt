@@ -1,0 +1,15 @@
+Enter your age: 
+False
+False
+True
+True
+True
+False
+Your age is 18
+You can drive
+Enter a number: 
+Number is special
+I am happy now!
+Enter first number: 
+Number is between 11 and 20
+Good Morning!
