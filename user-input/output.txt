@@ -1,0 +1,8 @@
+You entered:  Atinder
+Enter your name: Your name is Atinder bir Singh
+Enter first number: 
+Enter second number: 
+The sum of 4 and 5 is 45
+Enter first number: 
+Enter second number: 
+The sum of 6 and 7 is 13
