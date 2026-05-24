@@ -1,0 +1,11 @@
+(1, 5, 6, 'Harry', True, 34, 35, 235, 2, 543, 435, 45334)
+<class 'tuple'>
+1
+<class 'int'>
+(1,)
+<class 'tuple'>
+1 5 6
+45334 435 543 2 235
+(5, 6, 'Harry')
+Yes
+<generator object <genexpr> at 0x104ba0d40>
