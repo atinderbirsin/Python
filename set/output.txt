@@ -1,0 +1,9 @@
+{2, 4, 6}
+<class 'set'>
+{True, 5, 6, 5.9, 'Atinder', 'Name'}
+True
+5
+6
+5.9
+Atinder
+Name
