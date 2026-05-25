@@ -53,7 +53,7 @@ from datetime import datetime
 now = datetime.now()
 formatted_time = int(now.strftime('%H'))
 
-if(formatted_time < 12):
+if(formatted_time > 0 and formatted_time < 12):
     print('Good Morning!')
 elif(formatted_time >= 12 and formatted_time < 17):
     print('Good Afternoon!')
