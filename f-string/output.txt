@@ -1,0 +1,5 @@
+Hey my name is {} and I am from {}
+Hey my name is Atinder and I am from India
+I want to use f-string like as it is: Hey my name is {name} and I am from {country}
+Price of mango is 34.24
+60
