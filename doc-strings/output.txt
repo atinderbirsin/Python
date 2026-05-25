@@ -1,0 +1,2 @@
+25
+Takes in a input as number & returns square of that number
