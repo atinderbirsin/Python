@@ -1,0 +1,6 @@
+('Spain', 'Italy', 'Finalnd', 'Germany', 'Russia')
+('Pakistan', 'Afghanistan', 'Srilanka', 'Bangladesh', 'Vietnam', 'India', 'China')
+1
+1
+6
+12
